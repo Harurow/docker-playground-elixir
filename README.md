@@ -18,6 +18,7 @@
 
 以下のVisual Studio Code 拡張をインストール
 
+* EditorConfig.EditorConfig
 * JakeBecker.elixir-ls
 
 ## 使い方
